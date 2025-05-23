@@ -1,0 +1,21 @@
+{
+    "49206013874": [
+        {
+            "pergunta": "Qual é o valor de x no código: x = 2 + 3?",
+            "resposta": "5",
+            "correta": true
+        },
+        {
+            "pergunta": "Qual é o valor de x no código: x = 2 + 3?",
+            "resposta": "5",
+            "correta": true
+        }
+    ],
+    "12398765432": [
+        {
+            "pergunta": "Qual é o valor de x no código: x = 2 + 3?",
+            "resposta": "5",
+            "correta": true
+        }
+    ]
+}
